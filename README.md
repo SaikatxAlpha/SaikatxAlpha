@@ -33,7 +33,6 @@ Passionate about web development and OpenAI, Love coding and thrive on innovatio
 
 - [Pre-Placement And Competitive Coding](https://github.com/SaikatxAlpha/Pre-Placement-And-Competitive-Coding)
 - [Pre-Placement Coding Competitive Coding](https://github.com/SaikatxAlpha/Pre-Placement-Coding-Competitive-Coding-)
-- [print-](https://github.com/SaikatxAlpha/print-)
 
 ---
 
