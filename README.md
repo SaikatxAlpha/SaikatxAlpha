@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/saikatxalpha/saikatxalpha/raw/main/assets/wave.gif" alt="Hi" width="50"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hi" width="70"/>
 </p>
 
 # Hola, Myself Saikat Mahara 😊
