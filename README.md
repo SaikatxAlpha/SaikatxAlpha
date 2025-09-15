@@ -29,7 +29,9 @@ Passionate about web development and OpenAI, Love coding and thrive on innovatio
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Projects [Empty]
+
+### 🌟 College Works
 
 - [Pre-Placement And Competitive Coding](https://github.com/SaikatxAlpha/Pre-Placement-And-Competitive-Coding)
 - [Pre-Placement Coding Competitive Coding](https://github.com/SaikatxAlpha/Pre-Placement-Coding-Competitive-Coding-)
