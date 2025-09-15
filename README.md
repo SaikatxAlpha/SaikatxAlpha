@@ -5,7 +5,7 @@
 
 
 
-**Learner || Artificial Intelligence Enthusiast ||**
+**Deep Learner || Artificial Intelligence Enthusiast ||**
 
 
 
