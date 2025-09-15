@@ -1,6 +1,6 @@
-# 🖐️ Hi, I'm SaikatxAlpha!
+# 🖐️ Hola, Myself Saikat Mahara....
 
-**Student | Artificial Intelligence Enthusiast**
+**2nd Year Student || Artificial Intelligence Enthusiast ||**
 
 ---
 
@@ -12,10 +12,10 @@ Passionate about web development and OpenAI, I love coding and thrive on innovat
 
 ### 🛠️ Skills
 
-- **Web Development**
 - **Python**
+- **Web Development**
 - **C**
-- **Artificial Intelligence**
+- **Open AI**
 
 ---
 
