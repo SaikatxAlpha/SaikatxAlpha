@@ -4,7 +4,7 @@
 
 # Hola, Myself Saikat Mahara 😊
 
-**Learner|| Artificial Intelligence Enthusiast ||**
+**Learner || Artificial Intelligence Enthusiast ||**
 
 ---
 
