@@ -1,4 +1,6 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hola, Myself Saikat Mahara 😊
+<img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" hieght="70" width="310" alt="hellogif">
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" hieght = "20" width="40"/>  I'm <a href="https://wasda-exe.github.io/personal-website-v2/" target="_blank">Saikat</a>. Nice to see you 🤗</h1>
+<br>
 
 
 
