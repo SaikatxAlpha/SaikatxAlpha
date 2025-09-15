@@ -4,9 +4,9 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 Myself ->
 
-Passionate about web development and OpenAI, I love coding and thrive on innovation. Constantly exploring new technologies, I enjoy turning ideas into impactful projects.
+Passionate about web development and OpenAI,Love to implement in Py and thrive on innovation. Constantly exploring Open AI.
 
 ---
 
