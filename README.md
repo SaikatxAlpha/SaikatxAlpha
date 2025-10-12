@@ -1,7 +1,8 @@
-<img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" hieght="70" width="310" alt="hellogif">
+<img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" hieght="80" width="320" alt="hellogif">
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" hieght = "20" width="40"/>  I'm <a href="https://wasda-exe.github.io/personal-website-v2/" target="_blank">Saikat</a>. Nice to see you 🤗</h1>
 <br>
 
+---
 
 **Deep Learner || Artificial Intelligence Enthusiast ||**
 <p align="middle">
@@ -49,9 +50,10 @@ Passionate about web development and OpenAI, Love coding and thrive on innovatio
   <a href="https://coursera.org/verify/QLOIMDN4OVKZ"><img src="https://img.shields.io/badge/University%20of%20Colorado%20System%20-%20Advanced%20System%20Security%20Topics-0072C6?style=for-the-badge&logo=coursera&logoColor=white" alt="Advanced System Security Topics"/></a>
 </p>
 
+---
 
 ### 🌟 Featured Projects [Empty]
-
+---
 ### 🌟 College Works
 
 - [Pre-Placement And Competitive Coding](https://github.com/SaikatxAlpha/Pre-Placement-And-Competitive-Coding)
