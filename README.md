@@ -1,9 +1,18 @@
-<img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" hieght="70" width="310" alt="hellogif"> <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" hieght = "20" width="40"/> I'm <a href="https://wasda-exe.github.io/personal-website-v2/" target="_blank">Saikat</a>. Nice to see you 🤗</h1> <br> **Deep Learner || Artificial Intelligence Enthusiast ||**
-<p align="middle">
-  <a href="https://www.linkedin.com/in/saikat-mahara-0b0b20317/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Saikat%20Mahara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn - Saikat Mahara"/>
-  </a>
-</p>
+<div style="display: flex; align-items: center;">
+
+  <img src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" 
+       height="70" width="310" alt="hellogif" style="margin-right: 10px;"/>
+
+  
+  <div>
+    <h1>
+      <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" 
+           height="20" width="40"/> I'm 
+      <a href="https://wasda-exe.github.io/personal-website-v2/" target="_blank">Saikat</a>. Nice to see you 🤗
+    </h1>
+    <p style="margin: 0;">Deep Learner || Artificial Intelligence Enthusiast ||</p>
+  </div>
+</div>
 
 
 ---
