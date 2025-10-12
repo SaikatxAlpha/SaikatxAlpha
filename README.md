@@ -1,14 +1,23 @@
-<img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" height="70" width="310" alt="hellogif">
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" height="20" width="40"/>  I'm <a href="https://wasda-exe.github.io/personal-website-v2/" target="_blank">Saikat</a>. Nice to see you 🤗</h1>
+<img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" hieght="70" width="310" alt="hellogif">
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" hieght = "20" width="40"/>  I'm <a href="https://wasda-exe.github.io/personal-website-v2/" target="_blank">Saikat</a>. Nice to see you 🤗</h1>
 <br>
 
+
+
+
 **Deep Learner || Artificial Intelligence Enthusiast ||**
+
+
 
 ---
 
 ### 😶‍🌫️ Myself ->
 
-Passionate about web development and OpenAI, love coding and thrive on innovation. Constantly learning OpenAI.
+Passionate about web development and OpenAI, Love coding and thrive on innovation. Constantly learning Open Ai.
+
+---
+
+### 🛠️ Skills
 
 ---
 
@@ -27,7 +36,9 @@ Passionate about web development and OpenAI, love coding and thrive on innovatio
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2C3E50?style=for-the-badge&logo=codeforces&logoColor=white" alt="Data Structures and Algorithms"/>
 </p>
 
+
 ---
+
 
 ### 🏅 Certificates & Achievements
 
@@ -41,7 +52,6 @@ Passionate about web development and OpenAI, love coding and thrive on innovatio
   <a href="https://coursera.org/verify/QLOIMDN4OVKZ"><img src="https://img.shields.io/badge/University%20of%20Colorado%20System%20-%20Advanced%20System%20Security%20Topics-0072C6?style=for-the-badge&logo=coursera&logoColor=white" alt="Advanced System Security Topics"/></a>
 </p>
 
----
 
 ### 🌟 Featured Projects [Empty]
 
@@ -52,14 +62,8 @@ Passionate about web development and OpenAI, love coding and thrive on innovatio
 
 ---
 
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/saikat-mahara-0b0b20317/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Saikat%20Mahara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Saikat Mahara"/>
-  </a>
-</p>
-
----
-
 > “Code. Create. Innovate.”
+
+<!--
+If you'd like to connect, feel free to share your social links!
+-->
