@@ -4,10 +4,9 @@
 
 
 **Deep Learner || Artificial Intelligence Enthusiast ||**
-<p align="left">
+<p align="middle">
   <a href="https://www.linkedin.com/in/saikat-mahara-0b0b20317/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" width="20" height="20" style="vertical-align:middle"/> 
-    Saikat Mahara
+    <img src="https://img.shields.io/badge/LinkedIn-Saikat%20Mahara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn - Saikat Mahara"/>
   </a>
 </p>
 
