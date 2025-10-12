@@ -67,3 +67,5 @@ Passionate about web development and OpenAI, Love coding and thrive on innovatio
 <!--
 If you'd like to connect, feel free to share your social links!
 -->
+
+add my lindin profile https://www.linkedin.com/in/saikat-mahara-0b0b20317/
