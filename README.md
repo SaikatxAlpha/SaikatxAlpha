@@ -19,14 +19,31 @@ Passionate about web development and OpenAI, Love coding and thrive on innovatio
 
 ### 🛠️ Skills
 
+---
+
+### 🛠️ Skills
+
 <p align="left">
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+
+  <!-- Core Domains -->
+  <img src="https://img.shields.io/badge/Web%20Development-4285F4?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=hackaday&logoColor=white" alt="Cyber Security"/>
+  <img src="https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2C3E50?style=for-the-badge&logo=codeforces&logoColor=white" alt="Data Structures and Algorithms"/>
 </p>
 
 - **Web Development**
 - **Artificial Intelligence**
+- **Cyber Security**
+- **MATLAB Programming**
+- **Data Structures & Algorithms**
+
 ---
+
 
 ### 🏅 Certificates & Achievements
 
