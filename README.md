@@ -1,18 +1,21 @@
-<div style="display: flex; align-items: center;">
-
+<div style="text-align: center; display: inline-block; line-height: 1.2;">
+  <!-- Hello GIF -->
   <img src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" 
-       height="70" width="310" alt="hellogif" style="margin-right: 10px;"/>
+       height="70" width="310" alt="hellogif"/>
 
-  
-  <div>
-    <h1>
-      <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" 
-           height="20" width="40"/> I'm 
-      <a href="https://wasda-exe.github.io/personal-website-v2/" target="_blank">Saikat</a>. Nice to see you 🤗
-    </h1>
-    <p style="margin: 0;">Deep Learner || Artificial Intelligence Enthusiast ||</p>
-  </div>
+  <!-- Name and hi GIF -->
+  <h1 style="margin: 10px 0 5px 0;">
+    <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" 
+         height="20" width="40" alt="hi"/> I'm 
+    <a href="https://wasda-exe.github.io/personal-website-v2/" target="_blank">Saikat</a>. Nice to see you 🤗
+  </h1>
+
+  <!-- Subtitle aligned with GIF width -->
+  <p style="margin: 0; width: 310px; display: inline-block;">
+    <strong>Deep Learner || Artificial Intelligence Enthusiast ||</strong>
+  </p>
 </div>
+
 
 
 ---
