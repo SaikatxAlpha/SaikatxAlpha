@@ -32,7 +32,7 @@ Passionate about web development and OpenAI, Love coding and thrive on innovatio
   <img src="https://img.shields.io/badge/Web%20Development-4285F4?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development"/>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Artificial Intelligence"/>
   <img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=hackaday&logoColor=white" alt="Cyber Security"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABiUlEQVQ4T2NkoBAw8t3+g4m3cHdHBgYGCy5dvvwPjEx8F2Q4/j0IHj1zz8J6AgwGf4gPnQ5I6QGYUBlZsMpgKjyh8MDZysvHv44ZP6PYT8UBoKExcnACo7gDwyChV9//95DpIDQGoFQpklEBgZ6T7CxK2bBB0AgxghM3ByC0kJz/C8fQHh6PzgJiAHCq5cACwDSyQBoTk3b/2cUWFjWcHYmBhUqgYhBAQp/AOxZHAOQeKwFsRZxEWWC+UczYlmEcxYMMiLAgMek8z2v3/7x/w/EiYGkgYICGA0lx6fwCkeqAzFx6yAOBiZAYfA+QmZz/9YmBgWf3Pv7z9f7+G8dYQg0CkKJiBQBzIjTFzDxcAJhIFAIwzCAIAGIE9u+LpTn3WAAAAASUVORK5CYII=&logoColor=white" alt="MATLAB"/>
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2C3E50?style=for-the-badge&logo=codeforces&logoColor=white" alt="Data Structures and Algorithms"/>
 </p>
 
