@@ -30,6 +30,10 @@ Passionate about web development and OpenAI, Love coding and thrive on innovatio
 
 ### 🏅 Certificates & Achievements
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<your-github-username>/<your-repo-name>/main/A_digital_graphic_banner_features_Saikat_Mahara’s_.png" alt="Saikat Mahara Certificates Banner" width="100%"/>
+</p>
+
 <p align="left">
   <a href="https://coursera.org/verify/MX2LKTNA4DWA"><img src="https://img.shields.io/badge/KAIST%20-%20Semiconductor%20Devices-005BAC?style=for-the-badge&logo=coursera&logoColor=white" alt="KAIST Semiconductor Devices"/></a>
   <a href="https://coursera.org/verify/JRMQD9JEIM05"><img src="https://img.shields.io/badge/University%20of%20London%20-%20Cyber%20Security%20Fundamentals-DA291C?style=for-the-badge&logo=coursera&logoColor=white" alt="Cyber Security Fundamentals"/></a>
@@ -37,10 +41,9 @@ Passionate about web development and OpenAI, Love coding and thrive on innovatio
   <a href="https://coursera.org/verify/WQB9PXUI27J9"><img src="https://img.shields.io/badge/UC%20San%20Diego%20-%20Algorithmic%20Toolbox-0078D4?style=for-the-badge&logo=coursera&logoColor=white" alt="Algorithmic Toolbox"/></a>
   <a href="https://coursera.org/verify/B6BTUDURDZ7W"><img src="https://img.shields.io/badge/University%20of%20Glasgow%20-%20MATLAB%20for%20AI-004B87?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB for AI"/></a>
   <a href="https://coursera.org/verify/JQCFCQ4D04NB"><img src="https://img.shields.io/badge/Johns%20Hopkins%20University%20-%20Principles%20of%20Management-002D72?style=for-the-badge&logo=coursera&logoColor=white" alt="Principles of Management"/></a>
+  <a href="https://coursera.org/verify/QLOIMDN4OVKZ"><img src="https://img.shields.io/badge/University%20of%20Colorado%20System%20-%20Advanced%20System%20Security%20Topics-0072C6?style=for-the-badge&logo=coursera&logoColor=white" alt="Advanced System Security Topics"/></a>
 </p>
 
-
----
 
 ### 🌟 Featured Projects [Empty]
 
