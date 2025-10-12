@@ -30,10 +30,6 @@ Passionate about web development and OpenAI, Love coding and thrive on innovatio
 
 ### 🏅 Certificates & Achievements
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/<your-github-username>/<your-repo-name>/main/A_digital_graphic_banner_features_Saikat_Mahara’s_.png" alt="Saikat Mahara Certificates Banner" width="100%"/>
-</p>
-
 <p align="left">
   <a href="https://coursera.org/verify/MX2LKTNA4DWA"><img src="https://img.shields.io/badge/KAIST%20-%20Semiconductor%20Devices-005BAC?style=for-the-badge&logo=coursera&logoColor=white" alt="KAIST Semiconductor Devices"/></a>
   <a href="https://coursera.org/verify/JRMQD9JEIM05"><img src="https://img.shields.io/badge/University%20of%20London%20-%20Cyber%20Security%20Fundamentals-DA291C?style=for-the-badge&logo=coursera&logoColor=white" alt="Cyber Security Fundamentals"/></a>
