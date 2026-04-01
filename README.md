@@ -9,15 +9,26 @@
 ╚══════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Deep+Learning+Engineer;Full-Stack+%26+Backend+Developer;AI+%2F+ML+Researcher;Cybersecurity+Enthusiast;Building+things+that+shouldn%27t+exist+yet.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Deep+Learning+Engineer;Full-Stack+%26+Backend+Developer;AI+%2F+ML+Researcher;Cybersecurity+Enthusiast;Building+things+that+shouldn%27t+exist+yet.)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=SaikatxAlpha&style=flat-square&color=a855f7&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=SaikatxAlpha&style=flat-square&color=FF6B35&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
 <div align="center">
+
+<!-- 
+  📸 CARBON CODE SNAPSHOT
+  1. Go to https://carbon.now.sh
+  2. Paste your class Saikat code
+  3. Theme: One Dark | Background: #1a0a00 | Font: Fira Code
+  4. Export PNG → upload to this repo as assets/code.png
+  5. Uncomment the line below and delete this comment
+-->
+
+<!-- <img src="./assets/code.png" width="750" /> -->
 
 ```python
 class Saikat:
@@ -41,66 +52,66 @@ class Saikat:
 
 **🖥️ Languages**
 
-![Python](https://img.shields.io/badge/Python-1a0030?style=for-the-badge&logo=python&logoColor=A855F7)
-![C](https://img.shields.io/badge/C-1a0030?style=for-the-badge&logo=c&logoColor=A855F7)
-![MATLAB](https://img.shields.io/badge/MATLAB-1a0030?style=for-the-badge&logo=mathworks&logoColor=A855F7)
-![HTML/CSS/JS](https://img.shields.io/badge/HTML%2FCSS%2FJS-1a0030?style=for-the-badge&logo=html5&logoColor=A855F7)
-![SQL](https://img.shields.io/badge/SQL-1a0030?style=for-the-badge&logo=sqlite&logoColor=A855F7)
+![Python](https://img.shields.io/badge/Python-1a0a00?style=for-the-badge&logo=python&logoColor=FF6B35)
+![C](https://img.shields.io/badge/C-1a0a00?style=for-the-badge&logo=c&logoColor=FF6B35)
+![MATLAB](https://img.shields.io/badge/MATLAB-1a0a00?style=for-the-badge&logo=mathworks&logoColor=FF6B35)
+![HTML/CSS/JS](https://img.shields.io/badge/HTML%2FCSS%2FJS-1a0a00?style=for-the-badge&logo=html5&logoColor=FF6B35)
+![SQL](https://img.shields.io/badge/SQL-1a0a00?style=for-the-badge&logo=sqlite&logoColor=FF6B35)
 
 **💻 Backend & Web**
 
-![Flask](https://img.shields.io/badge/Flask-1a0030?style=for-the-badge&logo=flask&logoColor=A855F7)
-![REST API](https://img.shields.io/badge/REST_API-1a0030?style=for-the-badge&logo=fastapi&logoColor=A855F7)
-![MVC](https://img.shields.io/badge/MVC_Architecture-1a0030?style=for-the-badge&logo=diagramsdotnet&logoColor=A855F7)
-![Session Auth](https://img.shields.io/badge/Session_%26_Auth-1a0030?style=for-the-badge&logo=auth0&logoColor=A855F7)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-1a0030?style=for-the-badge&logo=gunicorn&logoColor=A855F7)
-![File Upload](https://img.shields.io/badge/File_Upload_Handling-1a0030?style=for-the-badge&logo=files&logoColor=A855F7)
+![Flask](https://img.shields.io/badge/Flask-1a0a00?style=for-the-badge&logo=flask&logoColor=FF6B35)
+![REST API](https://img.shields.io/badge/REST_API-1a0a00?style=for-the-badge&logo=fastapi&logoColor=FF6B35)
+![MVC](https://img.shields.io/badge/MVC_Architecture-1a0a00?style=for-the-badge&logo=diagramsdotnet&logoColor=FF6B35)
+![Session Auth](https://img.shields.io/badge/Session_%26_Auth-1a0a00?style=for-the-badge&logo=auth0&logoColor=FF6B35)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-1a0a00?style=for-the-badge&logo=gunicorn&logoColor=FF6B35)
+![File Upload](https://img.shields.io/badge/File_Upload_Handling-1a0a00?style=for-the-badge&logo=files&logoColor=FF6B35)
 
 **🧠 AI / API Integration**
 
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-1a0030?style=for-the-badge&logo=pytorch&logoColor=A855F7)
-![Tavily](https://img.shields.io/badge/Tavily_AI_Search-1a0030?style=for-the-badge&logo=searchengin&logoColor=A855F7)
-![Quiz Gen](https://img.shields.io/badge/Dynamic_Quiz_Generation-1a0030?style=for-the-badge&logo=openai&logoColor=A855F7)
-![Summarization](https://img.shields.io/badge/Text_Summarization-1a0030?style=for-the-badge&logo=huggingface&logoColor=A855F7)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-1a0a00?style=for-the-badge&logo=pytorch&logoColor=FF6B35)
+![Tavily](https://img.shields.io/badge/Tavily_AI_Search-1a0a00?style=for-the-badge&logo=searchengin&logoColor=FF6B35)
+![Quiz Gen](https://img.shields.io/badge/Dynamic_Quiz_Generation-1a0a00?style=for-the-badge&logo=openai&logoColor=FF6B35)
+![Summarization](https://img.shields.io/badge/Text_Summarization-1a0a00?style=for-the-badge&logo=huggingface&logoColor=FF6B35)
 
 **🗄️ Database**
 
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy_ORM-1a0030?style=for-the-badge&logo=sqlalchemy&logoColor=A855F7)
-![SQLite](https://img.shields.io/badge/SQLite-1a0030?style=for-the-badge&logo=sqlite&logoColor=A855F7)
-![UserAuth](https://img.shields.io/badge/User_Auth_Systems-1a0030?style=for-the-badge&logo=shield&logoColor=A855F7)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy_ORM-1a0a00?style=for-the-badge&logo=sqlalchemy&logoColor=FF6B35)
+![SQLite](https://img.shields.io/badge/SQLite-1a0a00?style=for-the-badge&logo=sqlite&logoColor=FF6B35)
+![UserAuth](https://img.shields.io/badge/User_Auth_Systems-1a0a00?style=for-the-badge&logo=shield&logoColor=FF6B35)
 
 **🔐 Security**
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1a0030?style=for-the-badge&logo=kalilinux&logoColor=A855F7)
-![OTP](https://img.shields.io/badge/OTP_Email_Verification-1a0030?style=for-the-badge&logo=minutemailer&logoColor=A855F7)
-![Hashing](https://img.shields.io/badge/Password_Hashing_(Werkzeug)-1a0030?style=for-the-badge&logo=letsencrypt&logoColor=A855F7)
-![HMAC](https://img.shields.io/badge/HMAC_Signature_Verification-1a0030?style=for-the-badge&logo=gnuprivacyguard&logoColor=A855F7)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1a0a00?style=for-the-badge&logo=kalilinux&logoColor=FF6B35)
+![OTP](https://img.shields.io/badge/OTP_Email_Verification-1a0a00?style=for-the-badge&logo=minutemailer&logoColor=FF6B35)
+![Hashing](https://img.shields.io/badge/Password_Hashing_(Werkzeug)-1a0a00?style=for-the-badge&logo=letsencrypt&logoColor=FF6B35)
+![HMAC](https://img.shields.io/badge/HMAC_Signature_Verification-1a0a00?style=for-the-badge&logo=gnuprivacyguard&logoColor=FF6B35)
 
 **💳 Payments**
 
-![Razorpay](https://img.shields.io/badge/Razorpay_Integration-1a0030?style=for-the-badge&logo=razorpay&logoColor=A855F7)
-![PayVerify](https://img.shields.io/badge/Payment_Verification_Flow-1a0030?style=for-the-badge&logo=cashapp&logoColor=A855F7)
+![Razorpay](https://img.shields.io/badge/Razorpay_Integration-1a0a00?style=for-the-badge&logo=razorpay&logoColor=FF6B35)
+![PayVerify](https://img.shields.io/badge/Payment_Verification_Flow-1a0a00?style=for-the-badge&logo=cashapp&logoColor=FF6B35)
 
 **📁 File Processing**
 
-![Pillow](https://img.shields.io/badge/Image_Processing_(Pillow)-1a0030?style=for-the-badge&logo=python&logoColor=A855F7)
-![PyMuPDF](https://img.shields.io/badge/PDF_Handling_(PyMuPDF)-1a0030?style=for-the-badge&logo=adobeacrobatreader&logoColor=A855F7)
-![python-docx](https://img.shields.io/badge/Word_Processing_(python--docx)-1a0030?style=for-the-badge&logo=microsoftword&logoColor=A855F7)
-![ReportLab](https://img.shields.io/badge/PDF_Generation_(ReportLab)-1a0030?style=for-the-badge&logo=adobeacrobatreader&logoColor=A855F7)
-![FileConv](https://img.shields.io/badge/File_Conversion_(JPG↔PDF↔DOCX)-1a0030?style=for-the-badge&logo=convertio&logoColor=A855F7)
+![Pillow](https://img.shields.io/badge/Image_Processing_(Pillow)-1a0a00?style=for-the-badge&logo=python&logoColor=FF6B35)
+![PyMuPDF](https://img.shields.io/badge/PDF_Handling_(PyMuPDF)-1a0a00?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF6B35)
+![python-docx](https://img.shields.io/badge/Word_Processing_(python--docx)-1a0a00?style=for-the-badge&logo=microsoftword&logoColor=FF6B35)
+![ReportLab](https://img.shields.io/badge/PDF_Generation_(ReportLab)-1a0a00?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF6B35)
+![FileConv](https://img.shields.io/badge/File_Conversion_(JPG↔PDF↔DOCX)-1a0a00?style=for-the-badge&logo=convertio&logoColor=FF6B35)
 
 **☁️ Deployment**
 
-![Gunicorn](https://img.shields.io/badge/Gunicorn-1a0030?style=for-the-badge&logo=gunicorn&logoColor=A855F7)
-![Procfile](https://img.shields.io/badge/Procfile_Setup-1a0030?style=for-the-badge&logo=heroku&logoColor=A855F7)
-![EnvVars](https://img.shields.io/badge/Environment_Variables-1a0030?style=for-the-badge&logo=dotenv&logoColor=A855F7)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-1a0a00?style=for-the-badge&logo=gunicorn&logoColor=FF6B35)
+![Procfile](https://img.shields.io/badge/Procfile_Setup-1a0a00?style=for-the-badge&logo=heroku&logoColor=FF6B35)
+![EnvVars](https://img.shields.io/badge/Environment_Variables-1a0a00?style=for-the-badge&logo=dotenv&logoColor=FF6B35)
 
 **⚙️ Other**
 
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-1a0030?style=for-the-badge&logo=codeforces&logoColor=A855F7)
-![Resend](https://img.shields.io/badge/Email_APIs_(Resend)-1a0030?style=for-the-badge&logo=minutemailer&logoColor=A855F7)
-![SearchEngine](https://img.shields.io/badge/Search_Engine_Integration-1a0030?style=for-the-badge&logo=google&logoColor=A855F7)
-![DynamicContent](https://img.shields.io/badge/Dynamic_Content_Generation-1a0030?style=for-the-badge&logo=magic&logoColor=A855F7)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-1a0a00?style=for-the-badge&logo=codeforces&logoColor=FF6B35)
+![Resend](https://img.shields.io/badge/Email_APIs_(Resend)-1a0a00?style=for-the-badge&logo=minutemailer&logoColor=FF6B35)
+![SearchEngine](https://img.shields.io/badge/Search_Engine_Integration-1a0a00?style=for-the-badge&logo=google&logoColor=FF6B35)
+![DynamicContent](https://img.shields.io/badge/Dynamic_Content_Generation-1a0a00?style=for-the-badge&logo=magic&logoColor=FF6B35)
 
 </div>
 
@@ -110,14 +121,14 @@ class Saikat:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaikatxAlpha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d001a&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaikatxAlpha&layout=compact&hide_border=true&bg_color=0d001a&title_color=A855F7&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaikatxAlpha&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0a00&title_color=FF6B35&icon_color=FFAA5C&text_color=e5d5c5"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaikatxAlpha&layout=compact&hide_border=true&bg_color=1a0a00&title_color=FF6B35&text_color=e5d5c5"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SaikatxAlpha&hide_border=true&background=0D001A&ring=A855F7&fire=C084FC&currStreakLabel=A855F7&sideLabels=A855F7&dates=9ca3af)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SaikatxAlpha&hide_border=true&background=1A0A00&ring=FF6B35&fire=FFAA5C&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=e5d5c5&sideNums=FFAA5C&currStreakNum=FF6B35)](https://git.io/streak-stats)
 
 </div>
 
@@ -150,7 +161,7 @@ class Saikat:
 
 <div align="center">
 
-[![Saikat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaikatxAlpha&bg_color=0d001a&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Saikat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaikatxAlpha&bg_color=1a0a00&color=FF6B35&line=FF6B35&point=FFAA5C&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
