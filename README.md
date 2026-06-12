@@ -19,23 +19,12 @@
 
 <div align="center">
 
-<!-- 
-  📸 CARBON CODE SNAPSHOT
-  1. Go to https://carbon.now.sh
-  2. Paste your class Saikat code
-  3. Theme: One Dark | Background: #1a0a00 | Font: Fira Code
-  4. Export PNG → upload to this repo as assets/code.png
-  5. Uncomment the line below and delete this comment
--->
-
-<!-- <img src="./assets/code.png" width="750" /> -->
-
 ```python
 class Saikat:
     alias     = "SaikatxAlpha"
-    roles     = ["Deep Learner", "AI Engineer", "Backend Dev", "Security Researcher"]
-    stack     = ["Python", "Flask", "C", "SQL", "MATLAB"]
-    interests = ["Artificial Intelligence", "Cybersecurity", "Full-Stack", "DSA"]
+    roles     = ["Deep Learning Engineer", "AI/ML Researcher", "Backend Developer", "Security Researcher"]
+    stack     = ["Python", "C", "C++", "CUDA", "Flask", "SQL", "MATLAB"]
+    interests = ["Artificial Intelligence", "Computer Vision", "Cybersecurity", "Full-Stack", "DSA"]
     mantra    = "Code. Create. Infiltrate."
 
     def available_for_collabs(self) -> bool:
@@ -46,7 +35,7 @@ class Saikat:
 
 ---
 
-## ⚡ Arsenal
+## ⚡ Technical Arsenal
 
 <div align="left">
 
@@ -54,6 +43,8 @@ class Saikat:
 
 ![Python](https://img.shields.io/badge/Python-1a0a00?style=for-the-badge&logo=python&logoColor=FF6B35)
 ![C](https://img.shields.io/badge/C-1a0a00?style=for-the-badge&logo=c&logoColor=FF6B35)
+![C++](https://img.shields.io/badge/C++-1a0a00?style=for-the-badge&logo=cplusplus&logoColor=FF6B35)
+![CUDA](https://img.shields.io/badge/CUDA-1a0a00?style=for-the-badge&logo=nvidia&logoColor=FF6B35)
 ![MATLAB](https://img.shields.io/badge/MATLAB-1a0a00?style=for-the-badge&logo=mathworks&logoColor=FF6B35)
 ![HTML/CSS/JS](https://img.shields.io/badge/HTML%2FCSS%2FJS-1a0a00?style=for-the-badge&logo=html5&logoColor=FF6B35)
 ![SQL](https://img.shields.io/badge/SQL-1a0a00?style=for-the-badge&logo=sqlite&logoColor=FF6B35)
@@ -67,9 +58,10 @@ class Saikat:
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-1a0a00?style=for-the-badge&logo=gunicorn&logoColor=FF6B35)
 ![File Upload](https://img.shields.io/badge/File_Upload_Handling-1a0a00?style=for-the-badge&logo=files&logoColor=FF6B35)
 
-**🧠 AI / API Integration**
+**🧠 AI / ML & Computer Vision**
 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-1a0a00?style=for-the-badge&logo=pytorch&logoColor=FF6B35)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a0a00?style=for-the-badge&logo=opencv&logoColor=FF6B35)
 ![Tavily](https://img.shields.io/badge/Tavily_AI_Search-1a0a00?style=for-the-badge&logo=searchengin&logoColor=FF6B35)
 ![Quiz Gen](https://img.shields.io/badge/Dynamic_Quiz_Generation-1a0a00?style=for-the-badge&logo=openai&logoColor=FF6B35)
 ![Summarization](https://img.shields.io/badge/Text_Summarization-1a0a00?style=for-the-badge&logo=huggingface&logoColor=FF6B35)
@@ -100,8 +92,9 @@ class Saikat:
 ![ReportLab](https://img.shields.io/badge/PDF_Generation_(ReportLab)-1a0a00?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF6B35)
 ![FileConv](https://img.shields.io/badge/File_Conversion_(JPG↔PDF↔DOCX)-1a0a00?style=for-the-badge&logo=convertio&logoColor=FF6B35)
 
-**☁️ Deployment**
+**☁️ Cloud & Deployment**
 
+![AWS](https://img.shields.io/badge/Amazon_AWS-1a0a00?style=for-the-badge&logo=amazonaws&logoColor=FF6B35)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-1a0a00?style=for-the-badge&logo=gunicorn&logoColor=FF6B35)
 ![Procfile](https://img.shields.io/badge/Procfile_Setup-1a0a00?style=for-the-badge&logo=heroku&logoColor=FF6B35)
 ![EnvVars](https://img.shields.io/badge/Environment_Variables-1a0a00?style=for-the-badge&logo=dotenv&logoColor=FF6B35)
@@ -117,7 +110,7 @@ class Saikat:
 
 ---
 
-## 📡 Stats
+## 📡 GitHub Statistics
 
 <div align="center">
 
@@ -136,28 +129,28 @@ class Saikat:
 
 ## 🎖️ Certifications
 
-| Institution | Course | Verify |
+| Institution | Course | Credential |
 |---|---|---|
-| 🇰🇷 KAIST | Semiconductor Devices | [🔗](https://coursera.org/verify/MX2LKTNA4DWA) |
-| 🇬🇧 University of London | Cyber Security Fundamentals | [🔗](https://coursera.org/verify/JRMQD9JEIM05) |
-| 🇨🇭 EPFL | Digital Signal Processing 1 | [🔗](https://coursera.org/verify/1N7Y2Z3Y85U1) |
-| 🇺🇸 UC San Diego | Algorithmic Toolbox | [🔗](https://coursera.org/verify/WQB9PXUI27J9) |
-| 🇬🇧 University of Glasgow | MATLAB for AI | [🔗](https://coursera.org/verify/B6BTUDURDZ7W) |
-| 🇺🇸 Johns Hopkins University | Principles of Management | [🔗](https://coursera.org/verify/JQCFCQ4D04NB) |
-| 🇺🇸 University of Colorado | Advanced System Security Topics | [🔗](https://coursera.org/verify/QLOIMDN4OVKZ) |
+| 🇰🇷 KAIST | Semiconductor Devices | [Verify ↗](https://coursera.org/verify/MX2LKTNA4DWA) |
+| 🇬🇧 University of London | Cyber Security Fundamentals | [Verify ↗](https://coursera.org/verify/JRMQD9JEIM05) |
+| 🇨🇭 EPFL | Digital Signal Processing 1 | [Verify ↗](https://coursera.org/verify/1N7Y2Z3Y85U1) |
+| 🇺🇸 UC San Diego | Algorithmic Toolbox | [Verify ↗](https://coursera.org/verify/WQB9PXUI27J9) |
+| 🇬🇧 University of Glasgow | MATLAB for AI | [Verify ↗](https://coursera.org/verify/B6BTUDURDZ7W) |
+| 🇺🇸 Johns Hopkins University | Principles of Management | [Verify ↗](https://coursera.org/verify/JQCFCQ4D04NB) |
+| 🇺🇸 University of Colorado | Advanced System Security Topics | [Verify ↗](https://coursera.org/verify/QLOIMDN4OVKZ) |
 
 ---
 
-## 🗂️ Repositories
+## 🗂️ Featured Repositories
 
 | Project | Description |
 |---|---|
-| [Pre-Placement & Competitive Coding](https://github.com/SaikatxAlpha/Pre-Placement-And-Competitive-Coding) | DSA grind — interview prep & competitive problems |
-| [Competitive Coding II](https://github.com/SaikatxAlpha/Pre-Placement-Coding-Competitive-Coding-) | Extended problem set archive |
+| [Pre-Placement & Competitive Coding](https://github.com/SaikatxAlpha/Pre-Placement-And-Competitive-Coding) | Structured DSA grind — interview preparation & competitive programming problems |
+| [Competitive Coding II](https://github.com/SaikatxAlpha/Pre-Placement-Coding-Competitive-Coding-) | Extended problem set archive with advanced solutions |
 
 ---
 
-## 🌐 Activity
+## 🌐 Contribution Activity
 
 <div align="center">
 
