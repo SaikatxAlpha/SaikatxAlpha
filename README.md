@@ -143,21 +143,13 @@ class Saikat:
 
 ## 🚀 Featured Projects
 
-<div align="center">
+## 🗂️ Featured Repositories
 
-<a href="https://github.com/SaikatxAlpha/Qerrastar">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaikatxAlpha&repo=Qerrastar&theme=dark&bg_color=1a0a00&title_color=FF6B35&text_color=e5d5c5&icon_color=FFAA5C&hide_border=true" />
-</a>
-
-<a href="https://github.com/SaikatxAlpha/Amiance">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaikatxAlpha&repo=Amiance&theme=dark&bg_color=1a0a00&title_color=FF6B35&text_color=e5d5c5&icon_color=FFAA5C&hide_border=true" />
-</a>
-
-<a href="https://github.com/SaikatxAlpha/GPU_Image_Processing">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaikatxAlpha&repo=GPU_Image_Processing&theme=dark&bg_color=1a0a00&title_color=FF6B35&text_color=e5d5c5&icon_color=FFAA5C&hide_border=true" />
-</a>
-
-</div>
+| Project | Description |
+|---|---|
+| [Qerrastar](https://github.com/SaikatxAlpha/Qerrastar) | AI-powered student assistant with smart study tools, quizzes, PYQ practice, document processing, search, and AI-assisted learning features |
+| [Amiance](https://github.com/SaikatxAlpha/Amiance) | Modern full-stack fashion e-commerce platform with a Gen-Z focused UI, product browsing, authentication, and scalable web architecture |
+| [GPU Image Processing](https://github.com/SaikatxAlpha/GPU_Image_Processing) | CUDA-accelerated image processing project demonstrating GPU parallelization, high-performance image operations, and C++/CUDA integration |
 ---
 
 ## 🌐 Contribution Activity
