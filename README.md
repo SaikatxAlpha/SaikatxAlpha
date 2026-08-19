@@ -145,7 +145,7 @@ class Saikat:
 
 ## 🗂️ Featured Repositories
 
-| Project | Description |
+| Projects | Description |
 |---|---|
 | [Qerrastar](https://github.com/SaikatxAlpha/Qerrastar) | AI-powered student assistant with smart study tools, quizzes, PYQ practice, document processing, search, and AI-assisted learning features |
 | [Amiance](https://github.com/SaikatxAlpha/Amiance) | Modern full-stack fashion e-commerce platform with a Gen-Z focused UI, product browsing, authentication, and scalable web architecture |
