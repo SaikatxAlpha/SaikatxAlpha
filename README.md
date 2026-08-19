@@ -141,13 +141,23 @@ class Saikat:
 
 ---
 
-## 🗂️ Featured Repositories
+## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| [Pre-Placement & Competitive Coding](https://github.com/SaikatxAlpha/Pre-Placement-And-Competitive-Coding) | Structured DSA grind — interview preparation & competitive programming problems |
-| [Competitive Coding II](https://github.com/SaikatxAlpha/Pre-Placement-Coding-Competitive-Coding-) | Extended problem set archive with advanced solutions |
+<div align="center">
 
+<a href="https://github.com/SaikatxAlpha/Qerrastar">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaikatxAlpha&repo=Qerrastar&theme=dark&bg_color=1a0a00&title_color=FF6B35&text_color=e5d5c5&icon_color=FFAA5C&hide_border=true" />
+</a>
+
+<a href="https://github.com/SaikatxAlpha/Amiance">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaikatxAlpha&repo=Amiance&theme=dark&bg_color=1a0a00&title_color=FF6B35&text_color=e5d5c5&icon_color=FFAA5C&hide_border=true" />
+</a>
+
+<a href="https://github.com/SaikatxAlpha/GPU_Image_Processing">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SaikatxAlpha&repo=GPU_Image_Processing&theme=dark&bg_color=1a0a00&title_color=FF6B35&text_color=e5d5c5&icon_color=FFAA5C&hide_border=true" />
+</a>
+
+</div>
 ---
 
 ## 🌐 Contribution Activity
